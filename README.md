@@ -1,17 +1,18 @@
 # Hi, I'm Nawaphat 👋
 
-### Computer Science Student | Full-stack Developer in Progress
+### Computer Science Student | Aspiring Full-stack Developer
 
-I'm Nawaphat Thongsut, a Computer Science and Software Innovation student
-at Sripatum University.
+I'm a Computer Science student at Sripatum University currently focused on
+Full-stack Development and building practical software projects.
 
-I'm currently focusing on **Full-stack Development** and building practical
-software projects to improve my understanding of frontend, backend, APIs,
-databases, and system development.
+I enjoy turning ideas into working applications by connecting frontend,
+backend, APIs, and databases.
 
-I'm currently looking for a **Co-op / Internship opportunity** where I can
-learn from experienced developers, contribute to real projects, and continue
-growing as a software developer.
+Alongside my main focus on web development, I'm also exploring Game
+Development with Unity and C# through personal projects.
+
+Currently looking for a Co-op / Internship opportunity where I can gain
+real-world experience, contribute to a team, and grow as a software developer.
 
 ---
 
